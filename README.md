@@ -1,7 +1,10 @@
 ### Olá, tudo certo? Sou o Gabriel Xavier
 
 - Nunca trabalhei na área de programação, gostaria muito de uma oportunidade para começar;
-- Estou estudando JavaScript, HTML e CSS;
+- Faço o curso técnico de Desenvolvimento de Sistemas na ETEC, atualmente cursando o segundo módulo;
+- Estudo também por conta própria na Udemy, hoje estou aprendendo principalmente JavaScript, HTML e CSS.
+
+##
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielXavierPereira&count_private=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielXavierPereira&layout=compact&theme=dark)
