@@ -1,16 +1,20 @@
-### Hi there 👋
+### Olá, tudo certo? Sou o Gabriel Xavier
 
-<!--
-**gabrielXavierPereira/gabrielXavierPereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Nunca trabalhei na área de programação, gostaria muito de uma oportunidade para começar;
+- Estou estudando JavaScript, HTML e CSS;
 
-Here are some ideas to get you started:
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielXavierPereira&count_private=true&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielXavierPereira&layout=compact&theme=dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"></br>
+<img align="center" alt="JavaScript Logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="center" alt="HTML5 Logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="center" alt="CSS3 Logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="center" alt="Visual Studio Code Logo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+</div></br>
+
+## Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielxavier.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-xavier-pereira/)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/gabriel-xavier-75/)
